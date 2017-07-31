@@ -1,0 +1,2 @@
+# Scientific-Extended-Calculator
+A desktop calculator can do such types of calculation which is not possible in normal or scientific calculator.For example addition, subtraction, multiplication, division of number of more than 100 digits.My calculator can do operation on number digits ranging from 100-100000.It also can do operation on floating binary,decimal,octal and can convert from one to another.Used language is only JAVA.
